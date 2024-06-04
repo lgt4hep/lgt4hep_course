@@ -1,3 +1,0 @@
-## Test
-
-Just checking how this works on GitHub...
