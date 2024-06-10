@@ -16,7 +16,9 @@ Collection of course materials to be used for the lattice-QCD training course as
 ### Suggested lecture topics
 
 1. Overview; renormalization in continuum QFT
-2. Lattice renormalization
+2. Lattice renormalization and scale setting
+3. Perturbative matching and alpha_S
+4. Non-perturbative renormalization
 
 ### General lecture notes
 
@@ -24,8 +26,9 @@ Collection of course materials to be used for the lattice-QCD training course as
 - John Collins (TASI '95), "[The Problem of Scales: Renormalization and All That](https://arxiv.org/abs/hep-ph/9510276)"
 - Peter Weisz (Les Houches '09), "[Renormalization and lattice artifacts](https://www.arxiv.org/abs/1004.3462)"
 
+## Non-perturbative renormalization papers
 
-
+- RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
 ## Computing algorithms and HPC (2 weeks)
 
