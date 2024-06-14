@@ -17,6 +17,9 @@ Collection of course materials to be used for the lattice-QCD training course as
 
 1. Overview; renormalization in continuum QFT
 2. Lattice renormalization and scale setting
+	- Why is scale setting necessary?
+	- What observables are commonly used to fix the lattice spacing?
+	- What observables are commonly used to fix quark masses?
 3. Perturbative matching and alpha_S
 4. Non-perturbative renormalization
 
@@ -25,6 +28,10 @@ Collection of course materials to be used for the lattice-QCD training course as
 - G. Peter Lepage (TASI '89), "[What is Renormalization?](https://arxiv.org/abs/hep-ph/0506330)"
 - John Collins (TASI '95), "[The Problem of Scales: Renormalization and All That](https://arxiv.org/abs/hep-ph/9510276)"
 - Peter Weisz (Les Houches '09), "[Renormalization and lattice artifacts](https://www.arxiv.org/abs/1004.3462)"
+
+## Scale setting
+
+- Rainer Sommer, "[Scale setting in lattice QCD](https://arxiv.org/abs/1401.3270)"
 
 ## Non-perturbative renormalization papers
 
