@@ -20,7 +20,7 @@ Collection of course materials to be used for the lattice-QCD training course as
 	- Why is scale setting necessary?
 	- What observables are commonly used to fix the lattice spacing?
 	- What observables are commonly used to fix quark masses?
-3. Perturbative matching and alpha_S
+3. Perturbative matching and $\alpha_S$
 4. Non-perturbative renormalization
 
 ### General lecture notes
