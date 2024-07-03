@@ -29,11 +29,15 @@ Collection of course materials to be used for the lattice-QCD training course as
 - John Collins (TASI '95), "[The Problem of Scales: Renormalization and All That](https://arxiv.org/abs/hep-ph/9510276)"
 - Peter Weisz (Les Houches '09), "[Renormalization and lattice artifacts](https://www.arxiv.org/abs/1004.3462)"
 
-## Scale setting
+### Scale setting
 
 - Rainer Sommer, "[Scale setting in lattice QCD](https://arxiv.org/abs/1401.3270)"
 
-## Non-perturbative renormalization papers
+### Lattice perturbation theory
+
+- Tadpole improvement: G.P. Lepage and P.B. Mackenzie, "[On the Viability of Lattice Perturbation Theory](https://arxiv.org/abs/hep-lat/9209022)"
+
+### Non-perturbative renormalization papers
 
 - RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
