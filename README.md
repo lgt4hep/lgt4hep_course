@@ -22,8 +22,6 @@ Students are encouraged to identify problems that can be assigned as homework pr
 
 There will be a final course project designed and distributed by the faculty experts. The students are encouraged to work on the projects as they are posted throughout the semester, and do not delay the work until the end of the course.
 
-The final grade on the course will be determined based on attendance (10%), lecture delivery (20%), lecture notes (30%), and the final course project (40%).
-
 ## From path integrals to QCD: overview of continuum theory (2 weeks)
 
 
