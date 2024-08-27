@@ -35,6 +35,7 @@ There will be a semester projects and presentation for those students who does n
 
 ## Renormalization (2 weeks)
 
+
 ### Suggested lecture topics
 
 1. Overview; renormalization in continuum QFT
@@ -45,21 +46,22 @@ There will be a semester projects and presentation for those students who does n
 3. Perturbative matching and $\alpha_S$
 4. Non-perturbative renormalization
 
-### General lecture notes
+### References
+#### General lecture notes
 
 - G. Peter Lepage (TASI '89), "[What is Renormalization?](https://arxiv.org/abs/hep-ph/0506330)"
 - John Collins (TASI '95), "[The Problem of Scales: Renormalization and All That](https://arxiv.org/abs/hep-ph/9510276)"
 - Peter Weisz (Les Houches '09), "[Renormalization and lattice artifacts](https://www.arxiv.org/abs/1004.3462)"
 
-### Scale setting
+#### Scale setting
 
 - Rainer Sommer, "[Scale setting in lattice QCD](https://arxiv.org/abs/1401.3270)"
 
-### Lattice perturbation theory
+#### Lattice perturbation theory
 
 - Tadpole improvement: G.P. Lepage and P.B. Mackenzie, "[On the Viability of Lattice Perturbation Theory](https://arxiv.org/abs/hep-lat/9209022)"
 
-### Non-perturbative renormalization papers
+#### Non-perturbative renormalization papers
 
 - RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
