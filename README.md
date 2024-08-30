@@ -22,10 +22,19 @@ There will be a semester projects and presentation for those students who does n
 
 ## From path integrals to QCD: overview of continuum theory (2 weeks)
 
-### General lecture notes
-- Quantum Chromodynamics on the Lattice by Gattringer and Lang: Chapter 1
-- Christoph Lehner's notes from his class: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html
+###  Lecture topics
+- Path Integrals in Quantum Mechanics
+- Markov Chain Monte Carlo
+- Scalar Field Theory (on the lattice)
+
+### References
+#### General lecture notes
+- Gattringer and Lang -"Quantum Chromodynamics on the Lattice", Lecture Notes in Physics, 788;  ISBN-13: 978-3642018497): Chapter 1 (Day 1), Chapter 4 (Day 2)
+- Christoph Lehner - LQCD Lecture Notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 1 (Day 1), Chapter 2 (Day 2)
 - Lepage "Lattice QCD for Novices" notes: https://arxiv.org/pdf/hep-lat/0506036
+
+#### Supplemental Notes:
+- Martin Luscher - Les Houches Summer School 09 Lecture Note: https://luscher.web.cern.ch/luscher/lectures/LesHouches09.pdf
 
 ## From scalar to gauge theories, on the lattice (3 weeks)
 
