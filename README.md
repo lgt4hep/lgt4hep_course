@@ -76,6 +76,12 @@ There will be a semester projects and presentation for those students who does n
 
 ## Computing algorithms and HPC (2 weeks)
 
+## Lattice Resources
+- Our community "[newsletter](https://list.indiana.edu/sympa/info/latticenews-l)" and "[joblist](https://list.indiana.edu/sympa/info/latticejobs-l)"
+- USQCD "[website](https://www.usqcd.org/)" and "[Facebook](https://www.facebook.com/LatticeQCD/)"
+- Annual lattice conference proceedings after 2006 on "[PoS](https://pos.sissa.it/cgi-bin/reader/family.cgi?code=lattice)"
+
+
 
 ## Quantum computing and simulation (2 weeks)
 
