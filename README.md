@@ -38,6 +38,19 @@ There will be a semester projects and presentation for those students who does n
 
 ## From scalar to gauge theories, on the lattice (3 weeks)
 
+###  Lecture topics
+- More on lattice scalar field theories (transfer marices and hopping expansion - depnding on this week's lectures)
+- Gauge fields and Wilson line operators
+- Wilson gague action
+- KS Hamiltonian
+- Strong coupling expansion
+- Improved actions
+
+### References
+- Gattringer and Lang -"Quantum Chromodynamics on the Lattice"
+- Montvay and Münster -"Quantum Fields on a lattice;
+- Smit -"Introduction to Quantum Fields on a Lattice"
+
 
 ## Fermion actions and chiral fermions (2 weeks)
 
