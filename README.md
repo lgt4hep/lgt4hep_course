@@ -29,8 +29,8 @@ There will be a semester projects and presentation for those students who does n
 
 ### References
 #### General lecture notes
-- Gattringer and Lang -"Quantum Chromodynamics on the Lattice", Lecture Notes in Physics, 788;  ISBN-13: 978-3642018497): Chapter 1 (Day 1), Chapter 4 (Day 2)
-- Christoph Lehner - LQCD Lecture Notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 1 (Day 1), Chapter 2 (Day 2)
+- Gattringer and Lang -"Quantum Chromodynamics on the Lattice", Lecture Notes in Physics, 788;  ISBN-13: 978-3642018497): Chapter 1, Chapter 4
+- Christoph Lehner - LQCD Lecture Notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 1, Chapter 2 
 - Lepage "Lattice QCD for Novices" notes: https://arxiv.org/pdf/hep-lat/0506036
 
 #### Supplemental Notes:
@@ -76,14 +76,15 @@ There will be a semester projects and presentation for those students who does n
 
 ## Computing algorithms and HPC (2 weeks)
 
-## Lattice Resources
-- Our community "[newsletter](https://list.indiana.edu/sympa/info/latticenews-l)" and "[joblist](https://list.indiana.edu/sympa/info/latticejobs-l)"
-- USQCD "[website](https://www.usqcd.org/)" and "[Facebook](https://www.facebook.com/LatticeQCD/)"
-- Annual lattice conference proceedings after 2006 on "[PoS](https://pos.sissa.it/cgi-bin/reader/family.cgi?code=lattice)"
-
-
 
 ## Quantum computing and simulation (2 weeks)
 
 
 ## Machine learning in lattice QCD (2 weeks)
+
+# Other Lattice Resources
+- Lattice Community-wide "[newsletter](https://list.indiana.edu/sympa/info/latticenews-l)" and "[joblist](https://list.indiana.edu/sympa/info/latticejobs-l)"
+- USQCD "[website](https://www.usqcd.org/)" and "[Facebook](https://www.facebook.com/LatticeQCD/)"
+- Annual lattice conference proceedings after 2006 on "[PoS](https://pos.sissa.it/cgi-bin/reader/family.cgi?code=lattice)"
+
+
