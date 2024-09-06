@@ -26,13 +26,13 @@ There will be a semester projects and presentation for those students who does n
 - Path Integrals in Quantum Mechanics
 - Markov Chain Monte Carlo
 - Scalar Field Theory
-  --Scalar Fields in the Continuum:
-  ---Lagrangian, EOM, Path Integral Representation
-  ---Correlators
-  ---Propagator
-  --Scalar Fields on the Lattice:
-  ---Lattice Construction
-  ---Translating Continuum -> Lattice
+   - Scalar Fields in the Continuum:
+      - Lagrangian, EOM, Path Integral Representation
+      - Correlators
+      - Propagator
+    - Scalar Fields on the Lattice:
+  	- Lattice Construction
+  	- Translating Continuum -> Lattice
 
 ### References
 #### General lecture notes
