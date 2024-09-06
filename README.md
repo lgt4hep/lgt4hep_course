@@ -20,23 +20,34 @@ For students who are doing the student-led lectures:
 There will be a semester projects and presentation for those students who does not participate the student-led lectures. The students are encouraged to form team to work on the project, starting from roughly mid-point of the lecture schedule, and aim to complete on the last week of the class. 
 
 
-## From path integrals to QCD: overview of continuum theory (2 weeks)
+## Unit 01: From path integrals to QCD: overview of continuum theory (2 weeks)
 
 ###  Lecture topics
 - Path Integrals in Quantum Mechanics
 - Markov Chain Monte Carlo
-- Scalar Field Theory (on the lattice)
+- Scalar Field Theory
+  --Scalar Fields in the Continuum:
+  ---Lagrangian, EOM, Path Integral Representation
+  ---Correlators
+  ---Propagator
+  --Scalar Fields on the Lattice:
+  ---Lattice Construction
+  ---Translating Continuum -> Lattice
 
 ### References
 #### General lecture notes
 - Gattringer and Lang -"Quantum Chromodynamics on the Lattice", Lecture Notes in Physics, 788;  ISBN-13: 978-3642018497): Chapter 1, Chapter 4
 - Christoph Lehner - LQCD Lecture Notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 1, Chapter 2 
 - Lepage "Lattice QCD for Novices" notes: https://arxiv.org/pdf/hep-lat/0506036
+- "Lattice Gauge Theory" by Heinz Rothe, Chapter 2
 
 #### Supplemental Notes:
 - Martin Luscher - Les Houches Summer School 09 Lecture Note: https://luscher.web.cern.ch/luscher/lectures/LesHouches09.pdf
+- "Quantum Fields on the Lattice" by Montvay and Munster, Chapter 2
+- David Tongs notes on Lattice Gauge Theory: https://www.damtp.cam.ac.uk/user/tong/gaugetheory/4lattice.pdf
 
-## From scalar to gauge theories, on the lattice (3 weeks)
+
+## Unit 02: From scalar to gauge theories, on the lattice (3 weeks)
 
 ###  Lecture topics
 - More on lattice scalar field theories (transfer marices and hopping expansion - depnding on this week's lectures)
@@ -52,10 +63,10 @@ There will be a semester projects and presentation for those students who does n
 - Smit -"Introduction to Quantum Fields on a Lattice"
 
 
-## Fermion actions and chiral fermions (2 weeks)
+## Unit03: Fermion actions and chiral fermions (2 weeks)
 
 
-## Renormalization (2 weeks)
+## Unit 04: Renormalization (2 weeks)
 
 
 ### Suggested lecture topics
@@ -87,13 +98,13 @@ There will be a semester projects and presentation for those students who does n
 
 - RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
-## Computing algorithms and HPC (2 weeks)
+## Unit 05: Computing algorithms and HPC (2 weeks)
 
 
-## Quantum computing and simulation (2 weeks)
+## Unit 06: Quantum computing and simulation (2 weeks)
 
 
-## Machine learning in lattice QCD (2 weeks)
+## Unit 07: Machine learning in lattice QCD (2 weeks)
 
 # Other Lattice Resources
 - Lattice Community-wide "[newsletter](https://list.indiana.edu/sympa/info/latticenews-l)" and "[joblist](https://list.indiana.edu/sympa/info/latticejobs-l)"
