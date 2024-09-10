@@ -44,17 +44,17 @@ There will be a semester projects and presentation for those students who does n
 #### Supplemental Notes:
 - Martin Luscher - Les Houches Summer School 09 Lecture Note: https://luscher.web.cern.ch/luscher/lectures/LesHouches09.pdf
 - "Quantum Fields on the Lattice" by Montvay and Munster, Chapter 2
-- David Tongs notes on Lattice Gauge Theory: https://www.damtp.cam.ac.uk/user/tong/gaugetheory/4lattice.pdf
+- David Tong's notes on Lattice Gauge Theory: https://www.damtp.cam.ac.uk/user/tong/gaugetheory/4lattice.pdf
 
 
 ## Unit 02: From scalar to gauge theories, on the lattice (3 weeks)
 
 ###  Lecture topics
-- More on lattice scalar field theories (transfer marices and hopping expansion - depnding on this week's lectures)
+- More on lattice scalar field theories: the O(n) model
 - Gauge fields and Wilson line operators
 - Wilson gague action
-- KS Hamiltonian
 - Strong coupling expansion
+- Static potential
 - Improved actions
 
 ### References
