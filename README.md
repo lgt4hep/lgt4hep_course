@@ -65,6 +65,25 @@ There will be a semester projects and presentation for those students who does n
 
 ## Unit03: Fermion actions and chiral fermions (2 weeks)
 
+### Lecture Topics
+- Fermion doubling
+- Wilson Fermions
+- Symmetries of the Wilson action
+- Fermionic correlation functions
+- Chiral symmetry
+- Continuum chiral symmetry
+- Nielsen-Ninomiya theorem
+- Ginsparg-Wilson equations
+- Topological charge
+- Banks-Casher relation
+- Chiral Fermions
+- Overlap fermions
+- Staggered fermions
+- Domain wall fermions
+### References
+- Gattringer and Lang - "Quantum Chromodynamics on the Lattice"
+- Montvay and Münster - "Quantum Fields on a lattice" 
+- Christoph Lehner - LQCD Lecture notes: https://homepages.uni-regensburg.de/~lec17310/teaching/wise2324/lqft.html Chapter 10, 11, and 12
 
 ## Unit 04: Renormalization (2 weeks)
 
