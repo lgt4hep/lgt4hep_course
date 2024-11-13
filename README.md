@@ -118,7 +118,35 @@ There will be a semester projects and presentation for those students who does n
 - RI/SMOM: [Renormalization of quark bilinear operators...](https://arxiv.org/abs/0901.2599)
 
 ## Unit 05: Computing algorithms and HPC (2 weeks)
+### Lecture Topics
+  - Class 1 
+  	- Introduce the problem, and need for Markov Chains
+  	- Markov Chain as a solution
+  	- Conditions needed to reach equilibrium. e. g. irreducible, apereodic, positive.
+  	- Introduction to Transition Probability  (Exercise).
+  	-  Balance equation, Detailed balance condition
+  - Class  2 
+       - Transition matrix
+       - How does the transition probability satisfy detailed balance?
+       - Sampling of different PDFs
+       - Metropolis Algorithm
+       - Rejection/ Heatbath Algorithm
+       - Implementation of $\phi^{4}$ theory (Exercise).
+ - Class 3
+ 	- Implementation of Heatbath for Pure Gauge $SU(2)$, $SU(N)$
+  	- Global Updating Algorithms
+   	- Pseudo-fermion problem
+   	- $det(M)$ calculation
+ - Class 4
+ 	- Molecular Dynamics, needs inversions
+  	- Conjugate Gradient
+   	- Hybrid Monte Carlo (HMC), an exact algorithm
+   	- Implementation for Scalar case (Exercise)
 
+### References
+- Rothe, H. J. (2012). Lattice gauge theories: an introduction. World Scientific Publishing Company.
+- Gattringer, C., & Lang, C. (2009). Quantum chromodynamics on the lattice: an introductory presentation (Vol. 788). Springer Science & Business Media.
+- Joseph, A., & Joseph, A. (2020). Markov Chain Monte Carlo. Markov Chain Monte Carlo Methods in Quantum Field Theories: A Modern Primer, 37-42.
 
 ## Unit 06: Quantum computing and simulation (2 weeks)
 
