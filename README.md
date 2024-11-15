@@ -174,6 +174,8 @@ There will be a semester projects and presentation for those students who does n
        - In fermion-boson formulation
    	- Outlining the differences between Abelian and non-Abelian algorithms
    	- What we did not cover  
+### References
+- "[Lectures](https://indico.cern.ch/event/1342488/timetable/#20240722.detailed)" on Foundation of Quantum Computing for Lattice Gauge Theory at the CERN School on Continuum Foundations of Lattice Gauge Theories, July 2024.
 
 ## Unit 07: Machine learning in lattice QCD (2 weeks)
 
