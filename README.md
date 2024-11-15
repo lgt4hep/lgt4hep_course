@@ -154,7 +154,9 @@ There will be a semester projects and presentation for those students who does n
   	
 - PART I: HAMILTONIAN FORMULATION OF LATTICE GAUGE THEORIES 
 	- Hamiltonian vs. Lagrangian formulation of LGTs
-	- Kogut-Susskind formulation: Basis states, Hilbert space, and constraints: An Abelian case: U(1) LGT, A non-Abelian case: U(1) LGT
+	- Kogut-Susskind formulation: Basis states, Hilbert space, and constraints:
+       - An Abelian case: U(1) LGT
+       - A non-Abelian case: U(1) LGT
 	- Kogut-Susskind formulation: Hamiltonian
 	- A variety of formulations: a brief overview
  	- Classical Hamiltonian-simulation methods: a brief discussion
