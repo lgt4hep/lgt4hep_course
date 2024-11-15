@@ -177,7 +177,10 @@ There will be a semester projects and presentation for those students who does n
 ### References
 - "[Lectures](https://indico.cern.ch/event/1342488/timetable/#20240722.detailed)" on Foundation of Quantum Computing for Lattice Gauge Theory at the CERN School on Continuum Foundations of Lattice Gauge Theories, July 2024.
 - Quantum Computation and Quantum Information, Michael A. Nielsen & Isaac L. Chuang, Cambridge university press, 2010.
+- Hamiltonian formulation of Wilson's lattice gauge theories, John Kogut and Leonard Susskind Phys. Rev. D 11, 395 (1975).
 - Search for Efficient Formulations for Hamiltonian Simulation of non-Abelian Lattice Gauge Theories, Davoudi, Raychowdhury, Shaw, Phys. Rev. D 104, 074505 (2021), arXiv:2009.11802 [hep-lat].
+- Quantum simulation of fundamental particles and forces, Bauer, Davoudi, Klco, Savage, Nature Rev.Phys. 5 (2023) 7, 420-432, arXiv:2404.06298 [hep-ph].
+- Quantum Simulation for High Energy Physics, Bauer, Davoudi et al, PRX Quantum 4, 027001 (2023), arXiv:2204.03381 [quant-ph].
 
 ## Unit 07: Machine learning in lattice QCD (2 weeks)
 
