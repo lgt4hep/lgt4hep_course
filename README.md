@@ -149,7 +149,37 @@ There will be a semester projects and presentation for those students who does n
 - Joseph, A., & Joseph, A. (2020). Markov Chain Monte Carlo. Markov Chain Monte Carlo Methods in Quantum Field Theories: A Modern Primer, 37-42.
 
 ## Unit 06: Quantum computing and simulation (2 weeks)
+### Lecture Topics
 
+PRE-LECTURE: QUANTUM SIMULATION OF FUNDAMENTAL PARTICLES AND FORCES, WHY AND HOW?
+
+PART I: HAMILTONIAN FORMULATION OF LATTICE GAUGE THEORIES
+	i) Hamiltonian vs. Lagrangian formulation of LGTs
+	ii) Kogut-Susskind formulation: Basis states, Hilbert space, and constraints
+		- An Abelian case: U(1) LGT
+		- A non-Abelian case: SU(2) LGT
+	iii) Kogut-Susskind formulation: Hamiltonian
+	iv) A variety of formulations: a brief overview
+	v) Classical Hamiltonian-simulation methods: a brief discussion
+ 
+ PART II: QUANTUM SIMULATION AND QUANTUM-COMPUTING BASICS
+ 	i) Quantum-simulation steps: A brief introduction
+	ii) Various modes of quantum simulation: Digital, analog, hybrid
+	iii) Digital-quantum-simulations basics:
+		qubits and gates
+		Encoding fermions and bosons onto qubits
+		State-preparation strategies
+		Time evolution (via product formulas)
+		Measurement strategies and observables
+  
+  DIGITAL QUANTUM COMPUTING TIME EVOLUTION IN LGTs
+  	i) A general algorithmic strategy
+	ii) Time evolution in the Schwinger model
+	In purely fermionic formulation
+	In fermion-boson formulation
+	iii) Outlining the differences between Abelian and non-Abelian algorithms
+	iv) Finally…what we did not cover
+  
 
 ## Unit 07: Machine learning in lattice QCD (2 weeks)
 
