@@ -205,14 +205,22 @@ There will be a semester projects and presentation for those students who does n
 by Aurélien Géron
 
 
-### Working with Notebooks in Colab
-- [Overview of Colab](/notebooks/basic_features_overview.ipynb)
-- [Guide to Markdown](/notebooks/markdown_guide.ipynb)
-- [Importing libraries and installing dependencies](/notebooks/snippets/importing_libraries.ipynb)
-- [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
-- [Interactive forms](/notebooks/forms.ipynb)
-- [Interactive widgets](/notebooks/widgets.ipynb)
+### Additional Deep-Learning Examples
+We only showed a simple example in this class, but there are many fun examples one can do with deep learning.
+Here are a few fun ones you can play around in your own time if you would like to do more deep learning.
 
+1. [Google image classification](
+https://developers.google.com/machine-learning/practica/image-classification): the classcial Cats vs Dongs classification
+
+1. [NeMo Voice Swap](https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/VoiceSwapSample.ipynb): Use Nvidia's NeMo conversational AI Toolkit to swap a voice in an audio fragment with a computer generated one.
+
+1. [Text Classification](https://www.tensorflow.org/hub/tutorials/tf2_text_classification): Classify IMDB movie reviews as either positive or negative.
+
+1. [Style Transfer](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization): Use deep learning to transfer style between images.
+
+1. [Multilingual Universal Sentence Encoder Q&A](https://www.tensorflow.org/hub/tutorials/retrieval_with_tf_hub_universal_encoder_qa): Use a machine learning model to answer questions from the SQuAD dataset.
+
+1. [Retraining an Image Classifier](https://www.tensorflow.org/hub/tutorials/tf2_image_retraining): Build a Keras model on top of a pre-trained image classifier to distinguish flowers.
 
 
 
