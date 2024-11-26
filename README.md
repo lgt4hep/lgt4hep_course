@@ -186,9 +186,33 @@ There will be a semester projects and presentation for those students who does n
 
 ## Unit 07: Machine learning in lattice QCD (2 weeks)
 
-# Other Lattice Resources
-- Lattice Community-wide "[newsletter](https://list.indiana.edu/sympa/info/latticenews-l)" and "[joblist](https://list.indiana.edu/sympa/info/latticejobs-l)"
-- USQCD "[website](https://www.usqcd.org/)" and "[Facebook](https://www.facebook.com/LatticeQCD/)"
-- Annual lattice conference proceedings after 2006 on "[PoS](https://pos.sissa.it/cgi-bin/reader/family.cgi?code=lattice)"
+### Learning Goals 
+- Learn about basics of machine learning
+- Use Scikit-Learn for linear regression and polynomial features
+- Learn about kernel methods and how to fit hyperparameters in Scikit-Learn
+- Learn about how computers perform image classification
+- Learn about the famous MNIST machine-learning training data set
+- Construct a simple convolutional neural networks
+- Visualize and interpret a trained neural net
+- Inverse problem on lattice parton distributions 
+- Machine-learning application to an Inverse Problem
+
+
+### References
+- ``Colloquium: Machine learning in nuclear physics'' Rev. Mod. Phys. 94 (2022) 3, 031003 (e-Print: 2112.02309)
+- ``Snowmass 2021 Computational Frontier CompF03 Topical Group Report: Machine Learning'', Phiala Shanahan et al, e-Print: 2209.07559 
+- If you prefer a textbook,  ``Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems'', 3rd Edition
+by Aurélien Géron
+
+
+### Working with Notebooks in Colab
+- [Overview of Colab](/notebooks/basic_features_overview.ipynb)
+- [Guide to Markdown](/notebooks/markdown_guide.ipynb)
+- [Importing libraries and installing dependencies](/notebooks/snippets/importing_libraries.ipynb)
+- [Saving and loading notebooks in GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+- [Interactive forms](/notebooks/forms.ipynb)
+- [Interactive widgets](/notebooks/widgets.ipynb)
+
+
 
 
