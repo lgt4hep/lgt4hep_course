@@ -1,0 +1,18 @@
+
+## Unit10_Lgt4hep_Detmold.pdf
+Lecture note for all 3 classes. 
+
+## LGT4HEP_2pt.h5
+Here is a data set to use for the problem at the end of the second video (for Day02's lecture). 
+If you want to use mathematica to do the exercise, read the data with
+Import["LGT4HEP_2pt.h5", "2pt", "ComplexKeys" -> {"re", "im"}]
+In python you might do something like
+import h5py
+import numpy as np
+f = h5py.File ("LGT4HEP_2pt.h5", 'r')
+g = np.zeros (shape = (2, 2, 21, 518), dtype = np.complex128)
+for a in range (2) :
+    for b in range (2) :
+        for c in range (21) :
+            for d in range (518) :
+                g[a, b, c, d] =  f['2pt'][a, b, c, d][0] + (1j)*f['2pt'][a, b, c, d][1]
