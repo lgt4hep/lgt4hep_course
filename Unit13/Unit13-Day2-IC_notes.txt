@@ -1,0 +1,67 @@
+1.Download the MILC code
+
+git clone https://github.com/milc-qcd/milc_qcd
+
+2.Change directory
+
+cd milc_qcd
+
+3.Switch to the 'develop' branch (the most up-to-date)
+
+git checkout develop
+
+4.Change directory to the SU(3) pure gauge application
+
+cd pure_gauge
+
+5.Copy the standard Makefile into the application directory
+
+cp ../Makefile ./
+
+6.Makefile contains platform-dependent options, it does not contain actual build targets. Edit the Makefile to reflect your platform, operating system and C/C++ compiler
+
+For Alexei Bazavov's Mac set up the change is
+
+    MY_CC  ?= gcc-8
+    MY_CXX ?= g++-8
+
+to 
+
+    MY_CC  ?= gcc-mp-10
+    MY_CXX ?= g++-mp-10
+
+7.There are common functions in ../libraries directory whose compilation is governed by their own makefile. In our case (scalar, no MPI) it is ../libraries/Make_vanilla . This file should have the compiler set to the same one as in the application directory.
+
+For Alexei Bazavov's Mac set up the change is 
+
+else ifeq ($(strip ${COMPILER}),gnu)
+  CC = gcc
+
+to
+
+else ifeq ($(strip ${COMPILER}),gnu)
+	CC = gcc-mp-10
+
+8.The available targets in 'pure_gauge' are in the Make_template. We are interested in 'su3_ora' -- this is SU(3) pure gauge updating with heatbath + overrelaxation. Build the target
+
+make su3_ora
+
+(The first build is lengthier than next builds because it compiles the auxiliary functions in ../libraries.)
+
+9.This executable can be run as
+
+./su3_ora <input_file> <output_file>
+
+or
+
+./su3_ora <input_file> > <output_file>
+
+10.In the application directory 'pure_gauge' there is a 'test' directory (as in most of the application directories). One can check if the code was built correctly, for instance, by running 'su3_ora' executable with the input file
+
+test/su3_ora.2.sample-in
+
+and storing the output in a new file 'my_test' and then comparing 'my_test' with
+
+su3_ora.2.sample-out
+
+
