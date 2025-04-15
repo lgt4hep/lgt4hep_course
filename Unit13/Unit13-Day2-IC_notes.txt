@@ -64,4 +64,9 @@ and storing the output in a new file 'my_test' and then comparing 'my_test' with
 
 su3_ora.2.sample-out
 
+==============================================
+Once the above is completed, do the following: 
+==============================================
+Run directories with proper input files for MILC code pure_gauge/su3_ora application
+https://drive.google.com/file/d/1YspRiRaNceEckR91cCeE4zEfcI1D_xCn/view?usp=sharing 
 
